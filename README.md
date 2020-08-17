@@ -1,2 +1,2 @@
 # firstgitproject
-Hanshika jain git and github learning
+This is my first project which am uploading on github.
